@@ -9,7 +9,7 @@ The repository includes the following files:
 
 loan_prediction.ipynb: Jupyter Notebook file that contains the code for data preprocessing, model training, and evaluation. It provides a step-by-step guide to reproduce the model and analyze the results.
 
-loan_prediction.csv: Comma-separated values (CSV) file containing the labeled dataset used for training and evaluation. The dataset includes various features such as income, credit score, employment status, and loan status. You can use your own labeled dataset or explore public datasets related to loan approvals for training and evaluation.
+loan_status_prediction.csv: Comma-separated values (CSV) file containing the labeled dataset used for training and evaluation. The dataset includes various features such as income, credit score, employment status, and loan status. You can use your own labeled dataset or explore public datasets related to loan approvals for training and evaluation.
 
 random_forest_classifier.pkl: Pickle file that contains the trained random forest model. This model can be loaded and used to make predictions on new loan applications. Refer to the Jupyter Notebook for an example of how to load and use this model.
 
